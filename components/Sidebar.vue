@@ -1,5 +1,5 @@
 <template>
-    <div class="lg:fixed lg:visible hidden z-40 mt-14 right-0 w-64 h-screen transition-transform -translate-x-full sm:translate-x-0">
+    <div class="fixed z-40 mt-14 right-0 w-64 h-screen transition-transform -translate-x-full sm:translate-x-0">
         <div class="flex flex-col justify-between items-end mr-12">
             <div>
                 <a href="#" class="">
