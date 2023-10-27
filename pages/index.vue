@@ -2,6 +2,9 @@
     <Header/>
     <Sidebar/>
     <SubHeader/>
+    <MainContent/>
+    <MidSection/>
+    <Footer/>
 </template>
 
 <script>
